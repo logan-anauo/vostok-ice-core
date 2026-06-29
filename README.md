@@ -1,8 +1,8 @@
-<h1>The Vostok Bore Hole, Antarctica</h1>
+<h1>Analysis of the Vostok Ice Cores, Antarctica</h1>
 
  
 <h2>Description:</h2>
-This project investigates data collected from ice cores of the Vostok Bore Hole in Antarctica.
+This project investigates data collected from ice cores of the Vostok Bore Hole in Antarctica. The Vostok Station is a Russian Antarctic Research Station established by the Soviet Union in 1957. Vostok is also known as the coldest place on Earth that has been reliably measured; a temperature of -89.2 degree Celcius was recorded on 07/21/1983 (Vasiliev et. al, 2011). Several holes have been drilled at this site since 1970, and unbeknownst to scientists at the time, it happens to be situated above the largest subglacial lake ever found in Antarctica. 
 <br />
 
 
@@ -28,13 +28,6 @@ This project investigates data collected from ice cores of the Vostok Bore Hole 
 
 
 
+<h2>References:</h2>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+Vasiliev, N. I., Talalay, P. G., & Vostok Deep Ice Core Drilling Parties. (2011). Vostok Deep Ice Core Drilling Parties: twenty years of drilling the deepest hole in ice. Scientific Drilling (Hokkaido, Japan), 11, 41–45. https://doi.org/10.5194/sd-11-41-2011
